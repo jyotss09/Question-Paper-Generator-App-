@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "493015675775",
+    "project_id": "qpaperapp-9b6a3",
+    "storage_bucket": "qpaperapp-9b6a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493015675775:android:0960dbf6b25161d786a04a",
+        "android_client_info": {
+          "package_name": "com.example.qpaper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "493015675775-o2pf4o4iavur8vleq4sgju9ipae0knoj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnw5Hk3olhttf_fXxDy35IPNyejs1yAxM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "493015675775-o2pf4o4iavur8vleq4sgju9ipae0knoj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

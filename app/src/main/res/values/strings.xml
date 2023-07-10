@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Qpaper</string>
+
+
+    <string-array name="course">
+        <item>Select Course</item>
+        <item>BSC IT</item>
+        <item>BSC CS</item>
+        <item>B COM</item>
+    </string-array>
+
+    <string-array name="year">
+        <item>Select Course</item>
+        <item>FY</item>
+        <item>SY</item>
+        <item>TY</item>
+    </string-array>
+</resources>
